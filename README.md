@@ -6,6 +6,7 @@ This project involves building and optimizing a Convolutional Neural Network (CN
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
+- [Video Demo](#video-demo)
 - [Dataset Overview](#dataset-overview)
 - [Model Architecture](#model-architecture)
 - [Features and Techniques](#features-and-techniques)
@@ -27,6 +28,16 @@ Key objectives include:
 - Using SE blocks for channel recalibration.
 - Implementing data augmentation for better generalization.
 - Achieving improved accuracy using batch normalization and dropout.
+
+---
+
+## Video Demo
+
+
+[Screen Recording 2024-12-18 at 2.14.18 PM.mov](https://github.com/user-attachments/assets/0207ba46-fcf5-4989-9c37-f0466a8de5b7)
+
+
+
 
 ---
 
